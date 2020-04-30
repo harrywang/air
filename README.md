@@ -15,4 +15,4 @@ Run `jupyter notebook` to see the code.
 
 ## Examples
 
-- `cranfield/tf-idf.ipynb`: tf-idf example for document retrieval
+- `cranfield/tfidf-bm25.ipynb`: tfidf and bm25 examples for document retrieval
